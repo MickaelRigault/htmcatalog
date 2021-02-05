@@ -1,6 +1,8 @@
 # htmcatalog
 Tool to query existing catalogs stored in Hierarchical Triangular Mesh format (htm)
 
+[![PyPI](https://img.shields.io/pypi/v/htmcatalog.svg?style=flat-square)](https://pypi.python.org/pypi/htmcatalog)
+
 
 # Installation
 
