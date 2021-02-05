@@ -17,7 +17,7 @@ cd htmcatalog
 python setup.py install
 ```
 
-dependencies: `HMpTy` (pip install it)[https://pypi.org/project/HMpTy/]
+dependencies: `HMpTy` [pip install it](https://pypi.org/project/HMpTy/)
 
 
 
